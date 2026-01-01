@@ -28,6 +28,10 @@ At heart, I blend minimalist design thinking with a renegade engineering spirit.
 
 ### Bacula
 
+### Apple
+
+[![Apple Associate](assets/applelogo.png)] Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
+
 ## Open Source Projects
 
 - [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt. 
