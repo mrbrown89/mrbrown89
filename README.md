@@ -16,10 +16,12 @@ I enjoy experimenting with new tools in safe development environments before dep
 ## Skills
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Jamf](https://img.shields.io/badge/Jamf-MDM-blue?style=for-the-badge)
 ![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Packer](https://img.shields.io/badge/Packer-353535?style=for-the-badge&logo=packer&logoColor=white)
+![Parallels](https://img.shields.io/badge/Parallels-DA0000?style=for-the-badge&logo=parallels&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge&logo=networking&logoColor=white)
 
 ## Certifications
