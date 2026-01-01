@@ -28,17 +28,9 @@ At heart, I blend minimalist design thinking with a renegade engineering spirit.
 
 ### Bacula
 
+## Open Source Projects
 
-
-
-## 🌱 Currently Learning
-- Advanced macOS security
-- Swift automation tools
-- GitOps workflows
-
-## 💻 Projects
-- [GitOps for macOS](https://github.com/yourusername/yourrepo) – Managing macOS at scale with Git and Jamf
-- [SaltStack Automation](https://github.com/yourusername/yourrepo) – Windows automation via SaltStack
+- [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt. 
 
 ## Contact
 
