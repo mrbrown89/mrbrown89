@@ -28,9 +28,11 @@ At heart, I blend minimalist design thinking with a renegade engineering spirit.
 
 ### Bacula
 
+[![Bacula](assets/bacula.jpeg)] Bacula Admin 1 Issued Jun 2023 Credential ID 3EFE46A6
+
 ### Apple
 
-[![Apple Associate](assets/applelogo.jpeg) Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
+[![Apple Associate](assets/applelogo.jpeg)] Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
 
 ## Open Source Projects
 
