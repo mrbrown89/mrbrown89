@@ -1,7 +1,5 @@
 # ~$ whoami
 
-# ~$ whoami
-
 Hey, I’m Matt. I’m a hands-on infrastructure and systems engineer who thrives on automation, GitOps, and building systems that just work. I love crafting workflows and pipelines that are repeatable, transparent, and reliable—where every commit, build, or automation step is tangible progress.
 
 I focus on creating environments that are efficient, scalable, and simple to maintain. Whether it’s macOS, Windows, Linux, or networking, I’m happiest when infrastructure flows quietly in the background, doing exactly what it should, freeing people to focus on their work.
