@@ -28,15 +28,24 @@ At heart, I blend minimalist design thinking with a renegade engineering spirit.
 
 ### Bacula
 
-[![Bacula](assets/bacula.jpeg)] Bacula Admin 1 Issued Jun 2023 Credential ID 3EFE46A6
+![Bacula](assets/bacula.jpeg) Bacula Admin 1 Issued Jun 2023 Credential ID 3EFE46A6
 
 ### Apple
 
-[![Apple Associate](assets/applelogo.jpeg)] Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
+![Apple Associate](assets/applelogo.jpeg) Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
 
 ## Open Source Projects
 
 - [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt. 
+
+## Articles
+
+- [Managing a Studio with Salt](articles/Managing-a-Studio-with-Salt.md)
+- [Managing a Studio with Salt](articles/Managing-a-Studio-with-Salt.md)
+- [Put the Kettle on. Let's Have a Brew](articles/Put-the-kettle-on-lets-have-a-brew.md)
+- [What Remains in the Aftermath](articles/What-Remains-in-the-Aftermath.md)
+- [Salting GitOps. Managing a NAS with Salt and GitOps](articles/Managing-a-NAS-with-Salt-and-GitOps.md)
+- [A Brief Look at Apple’s Gatekeeper](articles/Apple-Gatekeeper.md)
 
 ## Contact
 
