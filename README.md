@@ -30,7 +30,7 @@ At heart, I blend minimalist design thinking with a renegade engineering spirit.
 
 ### Apple
 
-[![Apple Associate](assets/applelogo.png)] Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
+[![Apple Associate](assets/applelogo.jpeg) Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
 
 ## Open Source Projects
 
