@@ -19,6 +19,8 @@ At heart, I blend minimalist design thinking with a renegade engineering spirit.
 
 ## Certifications
 
+[![Jamf 300](assets/jamf300.png)](https://www.credly.com/badges/7cfffc1d-9c19-4b80-b250-4ae0e853d471/public_url)
+[![Jamf 370](assets/jamf370.png)](https://www.credly.com/badges/ad53eaa3-57ff-4a8a-ad6c-e5e7e28f1e25/public_url)
 [![Jamf 200](assets/jamf200.png)](https://www.credly.com/badges/97168ab0-bb3f-4924-9fe0-eae62f4083f0/public_url)
 [![Jamf 170](assets/jamf170.png)](https://www.credly.com/badges/6bcdf871-f9b0-49dc-b254-f0447773c21d/public_url)
 ## 🌱 Currently Learning
