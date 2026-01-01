@@ -1,14 +1,19 @@
 # ~$ whoami
 
-Hey, I’m Matt. I’m a hands on infrastructure and systems engineer working across macOS, Windows, Linux and networking, with a strong focus on automation, Infrastructure as Code and building systems that genuinely move forward. I’m progress driven and thrive on creating workflows and pipelines that produce visible, repeatable results. Every commit, build and automation step feels like tangible progress.
+# ~$ whoami
 
-I believe the best technology is quiet, intentional and human focused. I’m driven by simplicity, order and craftsmanship rather than hype or excess, and I take pride in building systems that are elegant, reliable and easy to live with. Technology should empower people, not slow them down, and I focus on creating environments that are efficient, scalable and a pleasure to maintain.
+Hey, I’m Matt. I’m a hands-on infrastructure and systems engineer who thrives on automation, GitOps, and building systems that just work. I love crafting workflows and pipelines that are repeatable, transparent, and reliable—where every commit, build, or automation step is tangible progress.
 
-At NSC Creative and the National Space Centre, I work as the Studio Systems Administrator. I automate deployments with Salt, manage secure MDM workflows with Jamf, and test new tools and configurations in development environments before rolling them out to production. On an average day, you’ll find me deep in render farms, building MDM configurations or automating VM builds to validate new solutions.
+I focus on creating environments that are efficient, scalable, and simple to maintain. Whether it’s macOS, Windows, Linux, or networking, I’m happiest when infrastructure flows quietly in the background, doing exactly what it should, freeing people to focus on their work.
 
-I began my career at the National Space Centre, progressing from technician to network administrator, before joining Pixit Media, where I supported major studios and research organisations running scalable GPFS storage. Across every role, I’ve leaned into GitOps style thinking and pipeline focused automation to build systems that are transparent, repeatable and secure.
+I have a particular passion for:
 
-At heart, I blend minimalist design thinking with a renegade engineering spirit. I value clean architecture, automation and open systems, and I care far more about whether a system is well engineered than whether it looks impressive on a slide deck. I respect skill over status, outcomes over optics, and I’m happiest when infrastructure is quietly flowing in the background, doing exactly what it should. 
+- **GitOps & Infrastructure as Code** – Making every system change auditable, testable, and reversible.
+- **Apple Ecosystem Management** – MDM, Jamf, and macOS automation.
+- **Automation & DevOps Principles** – SaltStack, pipelines, and reproducible environments.
+- **Open & Transparent Systems** – Building infrastructure that’s elegant, reliable, and human-focused.
+
+I enjoy experimenting with new tools in safe development environments before deploying to production, and I share what I learn through projects and articles here. 
 
 ## Skills
 
