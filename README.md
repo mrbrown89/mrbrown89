@@ -10,7 +10,7 @@ I'm passionate about:
 - **Apple Ecosystem Management** – MDM, Jamf, and macOS automation.
 - **Automation & DevOps Principles** – SaltStack, pipelines, and reproducible environments. Salt all of the things!
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrown89&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=mrbrown89&show_icons=true&theme=dark)
 
 ## Skills
 
@@ -56,7 +56,7 @@ I'm passionate about:
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matt-brown-2a77b3283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-brown-2a77b3283)
 
 
 
