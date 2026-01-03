@@ -1,9 +1,5 @@
 # ~$ whoami
 
-# ~$ whoami
-
-# ~$ whoami
-
 Hey, I’m Matt a hands on infrastructure engineer with a love for macOS and the Apple ecosystem. I thrive on GitOps, automation and building systems. 
 
 From macOS and iOS to Linux and networking I build environments that are simple, scalable and reproducible through IaC.
