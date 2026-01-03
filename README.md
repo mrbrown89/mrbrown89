@@ -11,7 +11,7 @@ I have a particular passion for:
 - **Automation & DevOps Principles** – SaltStack, pipelines, and reproducible environments.
 - **Open & Transparent Systems** – Building infrastructure that’s elegant, reliable, and human-focused.
 
-I enjoy experimenting with new tools in safe development environments before deploying to production, and I share what I learn through projects and articles here. 
+I experiment with new tools in safe development environments before deploying to production, and I share what I learn here through projects and articles.
 
 ## Skills
 
