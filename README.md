@@ -45,7 +45,8 @@ I experiment with new tools in safe development environments before deploying to
 
 ## Open Source Projects
 
-- [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt. 
+- [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt.
+- [Salting macOS](https://github.com/mrbrown89/salting-macOS) - Example files on using SaltStack to manage your mac. Include CI examples.
 
 ## Articles
 
