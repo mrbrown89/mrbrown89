@@ -8,10 +8,7 @@ I have a particular passion for:
 
 - **GitOps & Infrastructure as Code** – Making every system change auditable, testable, and reversible.
 - **Apple Ecosystem Management** – MDM, Jamf, and macOS automation.
-- **Automation & DevOps Principles** – SaltStack, pipelines, and reproducible environments.
-- **Open & Transparent Systems** – Building infrastructure that’s elegant, reliable, and human-focused.
-
-I experiment with new tools in safe development environments before deploying to production, and I share what I learn here through projects and articles.
+- **Automation & DevOps Principles** – SaltStack, pipelines, and reproducible environments. Salt all of the things!
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrown89&show_icons=true&theme=dark)
 
