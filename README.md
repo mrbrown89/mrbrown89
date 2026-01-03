@@ -13,6 +13,8 @@ I have a particular passion for:
 
 I experiment with new tools in safe development environments before deploying to production, and I share what I learn here through projects and articles.
 
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrown89&show_icons=true&theme=dark)
+
 ## Skills
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
