@@ -47,7 +47,7 @@ I enjoy experimenting with new tools in safe development environments before dep
 
 ## Articles
 
-- [Managing a Studio with Salt](articles/Managing-a-Studio-with-Salt.md)
+- [A Brief Look at Apple’s Gatekeeper](articles/Apple-Gatekeeper.md)
 - [Managing a Studio with Salt](articles/Managing-a-Studio-with-Salt.md)
 - [Put the Kettle on. Let's Have a Brew](articles/Put-the-kettle-on-lets-have-a-brew.md)
 - [What Remains in the Aftermath](articles/What-Remains-in-the-Aftermath.md)
