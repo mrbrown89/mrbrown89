@@ -4,9 +4,9 @@ Hey, I’m Matt a hands on infrastructure engineer with a love for macOS and the
 
 From macOS and iOS to Linux and networking I build environments that are simple, scalable and reproducible through IaC.
 
-I focus on creating environments that are efficient, scalable and simple to maintain. Whether it’s macOS, Linux, or networking, I’m happiest when infrastructure flows quietly in the background doing exactly what it should.
+I focus on creating environments that are simple, scalable and reproducible through IaC. Whether it’s macOS, Linux or networking I’m happiest when infrastructure flows quietly in the background doing exactly what it should.
 
-I have a particular passion for:
+I'm passionate about:
 
 - **GitOps & Infrastructure as Code** – Making every system change auditable, testable, and reversible.
 - **Apple Ecosystem Management** – MDM, Jamf, and macOS automation.
