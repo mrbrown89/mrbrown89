@@ -8,7 +8,7 @@ I'm passionate about:
 
 - **GitOps & Infrastructure as Code** – Making every system change auditable, testable, and reversible.
 - **Apple Ecosystem Management** – MDM, Jamf, and macOS automation.
-- **Automation & DevOps Principles** – SaltStack, pipelines, and reproducible environments. Salt all of the things!
+- **Automation & DevOps Principles** – SaltStack, Ansible, pipelines, and reproducible environments. Automate all of the things!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mrbrown89&show_icons=true&theme=dark)
 
@@ -18,6 +18,7 @@ I'm passionate about:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Jamf](https://img.shields.io/badge/Jamf-MDM-blue?style=for-the-badge)
 ![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Packer](https://img.shields.io/badge/Packer-353535?style=for-the-badge&logo=packer&logoColor=white)
 ![Parallels](https://img.shields.io/badge/Parallels-DA0000?style=for-the-badge&logo=parallels&logoColor=white)
