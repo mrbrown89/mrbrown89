@@ -10,8 +10,6 @@ I'm passionate about:
 - **Apple Ecosystem Management** – MDM, Jamf, and macOS automation.
 - **Automation & DevOps Principles** – SaltStack, Ansible, pipelines, and reproducible environments. Automate all of the things!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mrbrown89&show_icons=true&theme=dark)
-
 ## Skills
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
