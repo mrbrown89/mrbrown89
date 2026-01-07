@@ -21,13 +21,21 @@ I’m particularly passionate about:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Jamf](https://img.shields.io/badge/Jamf-MDM-blue?style=for-the-badge)
 
-### Linux
+### Linux, Storage, Backup and Services
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge)
+![ZFS](https://img.shields.io/badge/ZFS-2A2A2A?style=for-the-badge&logoColor=white)
+![GPFS](https://img.shields.io/badge/GPFS-0052CC?style=for-the-badge&logoColor=white)
+![TSM](https://img.shields.io/badge/IBM%20TSM-1F70C1?style=for-the-badge&logoColor=white)
+![Bacula](https://img.shields.io/badge/Bacula-004A7C?style=for-the-badge&logo=bacula&logoColor=white)
+![ZFS](https://img.shields.io/badge/ZFS-2A2A2A?style=for-the-badge&logoColor=white)
+![Samba](https://img.shields.io/badge/Samba-SMB-8A2BE2?style=for-the-badge&logo=samba&logoColor=white)
+![NFS](https://img.shields.io/badge/NFS-0078D4?style=for-the-badge&logoColor=white)
 
-**Storage, Backup and Services**
-- ZFS
+
+
+
 - GPFS
 - TSM
 - Bacula
