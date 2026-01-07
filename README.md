@@ -8,10 +8,10 @@ My day to day interests sit at the intersection of macOS administration, Linux s
 
 I’m particularly passionate about:
 
-- **Infrastructure as Code & GitOps** – Treating infrastructure like software.
-- **macOS & Apple Ecosystem Administration** – Jamf, MDM, configuration profiles, and macOS automation.
-- **Linux Systems & Storage** – Servers, filesystems, and building dependable foundations.
-- **Automation & Configuration Management** – SaltStack, Ansible, and removing manual work wherever possible. Automate all of the things!
+- Infrastructure as Code & GitOps – Treating infrastructure like software.
+- macOS & Apple Ecosystem Administration – Jamf, MDM, configuration profiles, and macOS automation.
+- Linux Systems & Storage – Servers, filesystems, and building dependable foundations.
+- Automation & Configuration Management – SaltStack, Ansible, and removing manual work wherever possible. Automate all of the things!
 
 ## Skills
 
