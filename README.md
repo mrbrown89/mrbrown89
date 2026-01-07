@@ -26,6 +26,11 @@ I’m particularly passionate about:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge)
 
+**Storage & Services**
+- ZFS (datasets, snapshots, replication)
+- Samba (SMB)
+- NFS
+
 ### Automation, IaC & GitOps
 
 ![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
@@ -35,6 +40,10 @@ I’m particularly passionate about:
 ### Virtualisation & Testing
 
 ![Parallels](https://img.shields.io/badge/Parallels-DA0000?style=for-the-badge&logo=parallels&logoColor=white)
+
+**Virtualisation**
+- Proxmox VE
+- KVM
 
 ## Certifications
 
