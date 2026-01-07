@@ -42,8 +42,6 @@ I’m particularly passionate about:
 ### Virtualisation & Testing
 
 ![Parallels](https://img.shields.io/badge/Parallels-DA0000?style=for-the-badge&logo=parallels&logoColor=white)
-
-**Virtualisation**
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white)
 ![Containers](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
