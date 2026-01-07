@@ -33,16 +33,6 @@ I’m particularly passionate about:
 ![Samba](https://img.shields.io/badge/Samba-SMB-8A2BE2?style=for-the-badge&logo=samba&logoColor=white)
 ![NFS](https://img.shields.io/badge/NFS-0078D4?style=for-the-badge&logoColor=white)
 
-
-
-
-- GPFS
-- TSM
-- Bacula
-- P5
-- Samba (SMB)
-- NFS
-
 ### Automation, IaC & GitOps
 
 ![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
@@ -54,8 +44,10 @@ I’m particularly passionate about:
 ![Parallels](https://img.shields.io/badge/Parallels-DA0000?style=for-the-badge&logo=parallels&logoColor=white)
 
 **Virtualisation**
-- Proxmox VE
-- KVM
+![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white)
+![Containers](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Certifications
 
