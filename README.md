@@ -24,7 +24,6 @@ I’m particularly passionate about:
 ### Linux, Storage, Backup and Services
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge)
 ![ZFS](https://img.shields.io/badge/ZFS-2A2A2A?style=for-the-badge&logoColor=white)
 ![GPFS](https://img.shields.io/badge/GPFS-0052CC?style=for-the-badge&logoColor=white)
 ![TSM](https://img.shields.io/badge/IBM%20TSM-1F70C1?style=for-the-badge&logoColor=white)
@@ -47,6 +46,12 @@ I’m particularly passionate about:
 ![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white)
 ![Containers](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Networking
+
+![Meraki](https://img.shields.io/badge/Meraki-FF6C37?logo=cisco-meraki&logoColor=white)
+![Aruba](https://img.shields.io/badge/Aruba-0072C6?logo=aruba-networks&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?logo=cisco&logoColor=white)
 
 ## Certifications
 
