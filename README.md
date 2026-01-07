@@ -37,7 +37,7 @@ I’m particularly passionate about:
 ![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-353535?style=for-the-badge&logo=packer&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
 
 ### Virtualisation & Testing
 
@@ -49,9 +49,9 @@ I’m particularly passionate about:
 
 ### Networking
 
-![Meraki](https://img.shields.io/badge/Meraki-FF6C37?logo=cisco-meraki&logoColor=white)
-![Aruba](https://img.shields.io/badge/Aruba-0072C6?logo=aruba-networks&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?logo=cisco&logoColor=white)
+![Meraki](https://img.shields.io/badge/Meraki-FF6C37?logo=cisco-meraki&logoColor=white&style=for-the-badge)
+![Aruba](https://img.shields.io/badge/Aruba-0072C6?logo=aruba-networks&logoColor=white&style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?logo=cisco&logoColor=white&style=for-the-badge)
 
 ## Certifications
 
