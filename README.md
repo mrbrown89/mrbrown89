@@ -1,14 +1,17 @@
 # ~$ whoami
 
-Hey, I’m Matt a hands on infrastructure engineer with a love for macOS and the Apple ecosystem. I thrive on GitOps, automation and building systems. 
+Hey, I’m Matt a Systems Administrator with a strong focus on macOS, Linux, and the Apple ecosystem.
 
-I focus on creating environments that are simple, scalable and reproducible through Infrastructure as Code. Whether it’s macOS, Linux or networking I’m happiest when infrastructure flows quietly in the background doing exactly what it should.
+I love designing and operating infrastructure with an emphasis on GitOps and Infrastructure as Code, aiming to make systems simple and reproducible. I enjoy building environments where change is deliberate, versioned, and recoverable by default.
 
-I'm passionate about:
+My day to day interests sit at the intersection of macOS administration, Linux systems, and storage. Whether it’s managing Apple fleets with Jamf, automating Linux infrastructure, or designing reliable storage systems, I’m happiest when everything is documented in code and quietly doing its job in the background.
 
-- **GitOps & Infrastructure as Code** – Making every system change auditable, testable, and reversible.
-- **Apple Ecosystem Management** – MDM, Jamf, and macOS automation.
-- **Automation & DevOps Principles** – SaltStack, Ansible, pipelines, and reproducible environments. Automate all of the things!
+I’m particularly passionate about:
+
+- **Infrastructure as Code & GitOps** – Treating infrastructure like software.
+- **macOS & Apple Ecosystem Administration** – Jamf, MDM, configuration profiles, and macOS automation.
+- **Linux Systems & Storage** – Servers, filesystems, and building dependable foundations.
+- **Automation & Configuration Management** – SaltStack, Ansible, and removing manual work wherever possible. Automate all of the things!
 
 ## Skills
 
