@@ -26,8 +26,12 @@ I’m particularly passionate about:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge)
 
-**Storage & Services**
-- ZFS (datasets, snapshots, replication)
+**Storage, Backup and Services**
+- ZFS
+- GPFS
+- TSM
+- Bacula
+- P5
 - Samba (SMB)
 - NFS
 
