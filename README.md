@@ -15,15 +15,26 @@ I’m particularly passionate about:
 
 ## Skills
 
+### Apple & macOS Administration
+
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Jamf](https://img.shields.io/badge/Jamf-MDM-blue?style=for-the-badge)
+
+### Linux, Servers & Storage
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge)
+
+### Automation, IaC & GitOps
+
 ![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Packer](https://img.shields.io/badge/Packer-353535?style=for-the-badge&logo=packer&logoColor=white)
+
+### Virtualisation & Testing
+
 ![Parallels](https://img.shields.io/badge/Parallels-DA0000?style=for-the-badge&logo=parallels&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge&logo=networking&logoColor=white)
 
 ## Certifications
 
