@@ -21,7 +21,7 @@ I’m particularly passionate about:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Jamf](https://img.shields.io/badge/Jamf-MDM-blue?style=for-the-badge)
 
-### Linux, Servers & Storage
+### Linux
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0099ff?style=for-the-badge)
