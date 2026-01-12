@@ -37,7 +37,6 @@ I’m particularly passionate about:
 ![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-353535?style=for-the-badge&logo=packer&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
 
 ### Virtualisation & Testing
 
