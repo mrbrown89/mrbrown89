@@ -15,7 +15,8 @@ I’m particularly passionate about:
 
 ## Work History
 
-**Studio Systems Administrator – NSC Creative / National Space Centre 2021 – Present**  
+### Studio Systems Administrator – NSC Creative / National Space Centre 2021 – Present
+
 Manage macOS, Windows, and Linux environments with a focus on automation and Infrastructure as Code (IaC).
 
 Deployed Jamf Pro, Jamf Protect, and Jamf Security Cloud to manage Macs, iPads, iPhones, and visionPro devices, using IaC to deploy artefacts to both dev and production Jamf Pro instances.
@@ -25,18 +26,21 @@ Automated render farm and studio work station operations, high-speed network wor
 All work is tested in a CI environment wherever possible using Jenkins, SaltStack, Packer, and Ansible.
 
 
-**Support Engineer – Pixit Media 2018 – 2021**
+### Support Engineer – Pixit Media 2018 – 2021
+
 Managed Pixstor storage systems (IBM GPFS) and TSM backup systems for broadcast companies, research facilities and animation/post production studios.
 
 Delivered proactive support, diagnosing complex issues and optimising performance, reliability and scalability.
 Reduced downtime and improved client operations through automated processes and preventative maintenance.
 
-**Network Administrator – National Space Centre 2015 – 2018**
+### Network Administrator – National Space Centre 2015 – 2018
+
 Configured switches, cabling and network infrastructure, ensuring reliable data flow.
 Managed storage, archive and backup systems to maintain data integrity and availability.
 Oversaw network projects from planning to implementation, improving infrastructure to meet evolving needs.
 
-**Technician – National Space Centre 2012 – 2015**
+### Technician – National Space Centre 2012 – 2015
+
 Supported daily operations, repairing and installing exhibits, managing lighting and stage rigging, and running visitor events.
 
 
