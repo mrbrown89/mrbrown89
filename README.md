@@ -52,27 +52,6 @@ I’m particularly passionate about:
 ![Aruba](https://img.shields.io/badge/Aruba-0072C6?logo=aruba-networks&logoColor=white&style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?logo=cisco&logoColor=white&style=for-the-badge)
 
-## Certifications
-
-### Jamf
-
-[![Jamf 300](assets/jamf300.png)](https://www.credly.com/badges/7cfffc1d-9c19-4b80-b250-4ae0e853d471/public_url)
-[![Jamf 370](assets/jamf370.png)](https://www.credly.com/badges/ad53eaa3-57ff-4a8a-ad6c-e5e7e28f1e25/public_url)
-[![Jamf 200](assets/jamf200.png)](https://www.credly.com/badges/97168ab0-bb3f-4924-9fe0-eae62f4083f0/public_url)
-[![Jamf 170](assets/jamf170.png)](https://www.credly.com/badges/6bcdf871-f9b0-49dc-b254-f0447773c21d/public_url)
-
-### Bacula
-
-![Bacula](assets/bacula.jpeg) 
-
-Bacula Admin 1 Issued Jun 2023 Credential ID 3EFE46A6
-
-### Apple
-
-![Apple Associate](assets/applelogo.jpeg) 
-
-Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
-
 ## Open Source Projects
 
 - [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt.
