@@ -1,56 +1,19 @@
 # ~$ whoami
 
-Hey, I’m Matt a Systems Administrator with a strong focus on macOS, Linux, and the Apple ecosystem.
 
-I love designing and operating infrastructure with an emphasis on GitOps and Infrastructure as Code, aiming to make systems simple and reproducible. I enjoy building environments where change is deliberate, versioned, and recoverable by default.
+Hello, World! I’m Matt.
 
-My day to day interests sit at the intersection of macOS administration, Linux systems, and storage. Whether it’s managing Apple fleets with Jamf, automating Linux infrastructure, or designing reliable storage systems, I’m happiest when everything is documented in code and quietly doing its job in the background.
+I’m a macOS nerd who loves building simple, repeatable systems using IaC and GitOps.
 
-I’m particularly passionate about:
+I’m happiest in the terminal writing scripts, testing workflows in Tart VMs, and using tools like Salt, Ansible, Jamf, and Fleet to manage Macs the same way we manage code.
 
-- Infrastructure as Code & GitOps – Treating infrastructure like software.
-- macOS & Apple Ecosystem Administration – Jamf, MDM, configuration profiles, and macOS automation.
-- Linux Systems & Storage – Servers, filesystems, and building dependable foundations.
-- Automation & Configuration Management – SaltStack, Ansible, and removing manual work wherever possible. Automate all of the things!
+I like to keep things simple:
+    •    Build it once
+    •    Make it reproducible
+    •    Avoid tool sprawl
+    •    Get the most out of the tools you already have
 
-## Skills
-
-### Apple & macOS Administration
-
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Jamf](https://img.shields.io/badge/Jamf-MDM-blue?style=for-the-badge)
-
-### Linux, Storage, Backup and Services
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ZFS](https://img.shields.io/badge/ZFS-2A2A2A?style=for-the-badge&logoColor=white)
-![GPFS](https://img.shields.io/badge/GPFS-0052CC?style=for-the-badge&logoColor=white)
-![TSM](https://img.shields.io/badge/IBM%20TSM-1F70C1?style=for-the-badge&logoColor=white)
-![Bacula](https://img.shields.io/badge/Bacula-004A7C?style=for-the-badge&logo=bacula&logoColor=white)
-![ZFS](https://img.shields.io/badge/ZFS-2A2A2A?style=for-the-badge&logoColor=white)
-![Samba](https://img.shields.io/badge/Samba-SMB-8A2BE2?style=for-the-badge&logo=samba&logoColor=white)
-![NFS](https://img.shields.io/badge/NFS-0078D4?style=for-the-badge&logoColor=white)
-
-### Automation, IaC & GitOps
-
-![SaltStack](https://img.shields.io/badge/SaltStack-1E539A?style=for-the-badge&logo=saltstack&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-353535?style=for-the-badge&logo=packer&logoColor=white)
-
-### Virtualisation & Testing
-
-![Parallels](https://img.shields.io/badge/Parallels-DA0000?style=for-the-badge&logo=parallels&logoColor=white)
-![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white)
-![Containers](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Networking
-
-![Meraki](https://img.shields.io/badge/Meraki-FF6C37?logo=cisco-meraki&logoColor=white&style=for-the-badge)
-![Aruba](https://img.shields.io/badge/Aruba-0072C6?logo=aruba-networks&logoColor=white&style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?logo=cisco&logoColor=white&style=for-the-badge)
+I’m always experimenting with new ideas and better ways of working, and I share what I learn as open source repos usually with lab-style demos you can spin up and play with. I've also written a few articles which are hosted on GitHub. You can view more about me on my LinkedIn page [here](www.linkedin.com/in/matt-brown-2a77b3283).
 
 ## Open Source Projects
 
