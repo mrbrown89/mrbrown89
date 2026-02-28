@@ -14,7 +14,7 @@ I like to keep things simple:
 - Avoid tool sprawl
 - Get the most out of the tools you already have
 
-I’m always experimenting with new ideas and better ways of working, and I share what I learn as open source repos usually with lab-style demos you can spin up and play with. I've also written a few articles which are hosted on GitHub. You can view more about me on my LinkedIn page [here](www.linkedin.com/in/matt-brown-2a77b3283).
+I’m always experimenting with new ideas and better ways of working, and I share what I learn as open source repos usually with lab-style demos you can spin up and play with. I've also written a few articles which are hosted on GitHub.
 
 ## Open Source Projects
 
