@@ -5,7 +5,7 @@ Hello, World! I’m Matt.
 
 I’m a macOS and linux nerd who loves building simple, repeatable systems using IaC and GitOps.
 
-I’m happiest in the terminal writing scripts, testing workflows in Tart VMs, and using tools like Salt, Ansible, and Jamf to manage Macs the same way we manage code. I also love building NAS systems in linux all managed with IaC.
+I’m happiest in the terminal writing scripts, testing workflows in Tart VMs, and using tools like Salt, Ansible, Terraform and Jamf to manage Macs the same way we manage code. I also love building NAS systems in linux all managed with IaC.
 
 I like to keep things simple:
 
