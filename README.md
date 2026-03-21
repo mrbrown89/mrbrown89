@@ -18,6 +18,7 @@ I’m always experimenting with new ideas and better ways of working, and I shar
 
 ## Open Source Projects
 
+- [Terraforming Jamf](https://github.com/mrbrown89/terraforming-jamf) - Example guide of managing Jamf Pro and Jamf Protect with Terraform.
 - [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt.
 - [Salting macOS](https://github.com/mrbrown89/salting-macOS) - Example files on using SaltStack to manage your mac. Include CI examples.
 
