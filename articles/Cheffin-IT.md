@@ -12,9 +12,6 @@ Long hours, small hot kitchens full of people. Lots of passion. Lots of shouting
 
 I left this kitchen to work in one final one before leaving the cooking world behind. This final kitchen that was much closer to home. We didn’t have any stars in this restaurant but we were still cooking to the same standard. I had far more responsibilities in this kitchen but still continued to master my tools. Fond memories of making chicken liver parfait at 7am everyday… 
 
-
-
-
 Fast forward to today and I have now worked in IT for a decade. The lessons I learned in those kitchens never left me. I am still driven by simplicity.
 
 In the same way a good chef does not need a drawer full of gadgets, I prefer a small set of tools that I understand deeply and use well. My workspace is simple. Just a MacBook, my phone and my AirPods. No dual monitors. No mechanical keyboard. No complicated setup.
@@ -22,6 +19,8 @@ In the same way a good chef does not need a drawer full of gadgets, I prefer a s
 Most of my work happens in the terminal. Occasionally I will fire up Xcode if vim starts slowing me down, but the goal is always the same. Keep things simple. Know your tools. I try to approach infrastructure in the same way I approached a kitchen. Preparation matters. Discipline matters. Everything should have its place.
 
 As much as possible I manage everything as code. Jamf is managed with Terraform. My NAS is configured with SaltStack. The goal is to reduce complexity and build systems that are predictable and easy to understand. In many ways it reminds me of Marco Pierre White’s philosophy in the kitchen. Strip things back. Focus on the fundamentals. Master the tools you have. For me that craft is infrastructure as code. Building clean automation that does one job properly.
+
+As chefs, we were always taught to taste as we go. How else are you supposed to know if what you are making is any good? It is a constant cycle of refining and improving. I have carried that into IT. Always testing what I build, running scripts in VMs, validating configurations, checking outcomes and refining things until they work exactly as they should.
 
 I once heard Ramsay refer to the stove as being a piano for chefs. I think thats a good way of looking at things. For me now my Mac is my piano. 
 
