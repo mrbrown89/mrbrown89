@@ -1,20 +1,10 @@
 # ~$ whoami
 
-
 Hello, World! I’m Matt.
 
-I’m a macOS and linux nerd who loves building simple, repeatable systems using IaC and GitOps.
+I’m a macOS and Linux engineer focused on building simple, repeatable systems using IaC and GitOps.
 
-I’m happiest in the terminal writing scripts, testing workflows in Tart VMs, and using tools like Salt, Ansible, Terraform and Jamf to manage Macs the same way we manage code. I also love building NAS systems in linux all managed with IaC.
-
-I like to keep things simple:
-
-- Build it once
-- Make it reproducible
-- Avoid tool sprawl
-- Get the most out of the tools you already have
-
-I’m always experimenting with new ideas and better ways of working, and I share what I learn as open source repos usually with lab-style demos you can spin up and play with. I've also written a few articles which are hosted on GitHub.
+I spend most of my time in the terminal writing scripts, testing workflows in VMs, and using tools like Salt, Ansible, Terraform, and MDM platforms to manage Macs the same way we manage code. I also build and manage Linux NAS systems using infrastructure as code.
 
 ## Open Source Projects
 
@@ -30,24 +20,6 @@ I’m always experimenting with new ideas and better ways of working, and I shar
 - [What Remains in the Aftermath](articles/What-Remains-in-the-Aftermath.md)
 - [Salting GitOps. Managing a NAS with Salt and GitOps](articles/Managing-a-NAS-with-Salt-and-GitOps.md)
 - [A Brief Look at Apple’s Gatekeeper](articles/Apple-Gatekeeper.md)
-
-## Certifications
-
-### Jamf
-
-[Jamf 400](https://www.credly.com/badges/165739d1-3ae0-48a0-8e85-a8732e86b992/public_url)
-[Jamf 370](https://www.credly.com/badges/ad53eaa3-57ff-4a8a-ad6c-e5e7e28f1e25/public_url)
-[Jamf 300](https://www.credly.com/badges/7cfffc1d-9c19-4b80-b250-4ae0e853d471/public_url)
-[Jamf 200](https://www.credly.com/badges/97168ab0-bb3f-4924-9fe0-eae62f4083f0/public_url)
-[Jamf 170](https://www.credly.com/badges/6bcdf871-f9b0-49dc-b254-f0447773c21d/public_url)
-
-### Bacula
-
-Bacula Admin 1 Issued Jun 2023 Credential ID 3EFE46A6
-
-### Apple
-
-Apple Certified Associate - Mac Integration 10.12 Issued Nov 2017
 
 ## Contact
 
