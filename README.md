@@ -10,6 +10,7 @@ I spend most of my time in the terminal writing scripts, testing workflows in VM
 
 - [Terraforming Jamf](https://github.com/mrbrown89/terraforming-jamf) - Example guide of managing Jamf Pro and Jamf Protect with Terraform.
 - [Automating a NAS with SaltStack](https://github.com/mrbrown89/son-of-anton) – Example of how to build a ZFS based NAS using Salt.
+- [salyMac](https://github.com/mrbrown89/saltyMac) - Example project to show how manage macOS using salt.
 
 ## Articles
 
