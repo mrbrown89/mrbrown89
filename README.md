@@ -13,6 +13,7 @@ I spend most of my time in the terminal writing scripts, writing my own tools, t
 - [saltyMac](https://github.com/mrbrown89/saltyMac) - Example project to show how manage macOS using salt.
 - [saltyExtensions](https://github.com/mrbrown89/saltyExtensions) - Repo of salt modules, states and grains that I use.
 - [workbrew-cli](https://github.com/mrbrown89/workBrew-cli) - CLI tool to interact with Workbrew.
+- [mac-health](https://github.com/mrbrown89/mac-health) - CLI health check for macOS, written in Swift and using native macOS APIs.
 
 ## Writing
 
