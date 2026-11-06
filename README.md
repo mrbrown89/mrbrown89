@@ -1,7 +1,3 @@
-# Matt Brown
-
-**Systems & Platform Engineer**
-
 Hey, I'm Matt.
 
 I'm passionate about building internal platforms and automation for storage systems and endpoint management, with a particular focus on Apple platforms, Infrastructure as Code and GitOps.
@@ -180,9 +176,7 @@ March 2024<br>
 </td>
 </tr>
 <tr>
-<td>
-<img src="assets/jamf100.png" width="70" alt="Jamf 100 badge">
-</td>
+<td width="85"></td>
 <td>
 <strong>Jamf 100: Jamf Pro Associate</strong><br>
 September 2023<br>
@@ -191,7 +185,7 @@ September 2023<br>
 </tr>
 <tr>
 <td>
-<img src="assets/applelogo.png" width="70" alt="Apple logo">
+<img src="assets/applelogo.jpeg" width="70" alt="Apple logo">
 </td>
 <td>
 <strong>Apple Certified Associate: Mac Integration 10.12</strong><br>
@@ -200,7 +194,7 @@ November 2017
 </tr>
 <tr>
 <td>
-<img src="assets/bacula.png" width="70" alt="Bacula logo">
+<img src="assets/bacula.jpeg" width="70" alt="Bacula logo">
 </td>
 <td>
 <strong>Bacula Admin 1</strong><br>
