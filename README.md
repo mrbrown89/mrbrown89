@@ -100,6 +100,7 @@ A collection of custom Salt execution modules, states and grains I've developed 
 
 I write about infrastructure, automation, macOS management and GitOps.
 
+- [Salting the NAS](articles/Salting-the-NAS.md) — Originally published in *2600: The Hacker Quarterly*.
 - [saltyBrew](articles/2026-06-27-saltyBrew.md) — 27 June 2026
 - [saltyMacs](articles/2026-05-28-saltyMacs.md) — 28 May 2026
 - [Console User Grain](articles/2026-05-28-console-user-grain.md) — 28 May 2026
