@@ -1,10 +1,8 @@
-Hey, I'm Matt.
+Hey, I’m Matt.
 
-I'm passionate about building internal platforms and automation for storage systems and endpoint management, with a particular focus on Apple platforms, Infrastructure as Code and GitOps.
+I’m passionate about platform engineering, MDM, Apple devices and storage systems, with a particular focus on Infrastructure as Code, automation and GitOps.
 
-My work centres around Go, Swift, Salt and Terraform, building tools that make managing devices and infrastructure simpler, more repeatable and easier to operate. I enjoy turning manual processes into reliable automation, whether that's deploying software, managing devices, building CI pipelines or improving observability with Grafana.
-
-Outside of work, I enjoy building open-source projects, writing about infrastructure and automation, and experimenting with new ways to simplify systems management.
+My work centres around Go, Salt and Terraform, building tools that make managing devices and infrastructure simpler, more repeatable and easier to operate. I enjoy turning manual processes into reliable automation, whether that’s deploying software, managing devices with Jamf, building CI pipelines or improving observability with Grafana.
 
 ## Portfolio
 
