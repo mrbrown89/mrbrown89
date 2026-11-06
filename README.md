@@ -1,3 +1,6 @@
+# Matt Brown
+
+**Systems & Platform Engineer**
 
 Hey, I'm Matt.
 
@@ -119,7 +122,7 @@ Some of my writing includes:
 <tr>
 <td width="85">
 <a href="https://www.credly.com/badges/165739d1-3ae0-48a0-8e85-a8732e86b992/linked_in_profile">
-<img src="assets/certifications/jamf-400.png" width="70" alt="Jamf 400 badge">
+<img src="assets/jamf400.png" width="70" alt="Jamf 400 badge">
 </a>
 </td>
 <td>
@@ -131,7 +134,7 @@ February 2026<br>
 <tr>
 <td>
 <a href="https://www.credly.com/badges/ad53eaa3-57ff-4a8a-ad6c-e5e7e28f1e25/linked_in_profile">
-<img src="assets/certifications/jamf-370.png" width="70" alt="Jamf 370 badge">
+<img src="assets/jamf370.png" width="70" alt="Jamf 370 badge">
 </a>
 </td>
 <td>
@@ -143,7 +146,7 @@ June 2025<br>
 <tr>
 <td>
 <a href="https://www.credly.com/badges/7cfffc1d-9c19-4b80-b250-4ae0e853d471/linked_in_profile">
-<img src="assets/certifications/jamf-300.png" width="70" alt="Jamf 300 badge">
+<img src="assets/jamf300.png" width="70" alt="Jamf 300 badge">
 </a>
 </td>
 <td>
@@ -155,7 +158,7 @@ August 2025<br>
 <tr>
 <td>
 <a href="https://www.credly.com/badges/97168ab0-bb3f-4924-9fe0-eae62f4083f0/linked_in_profile">
-<img src="assets/certifications/jamf-200.png" width="70" alt="Jamf 200 badge">
+<img src="assets/jamf200.png" width="70" alt="Jamf 200 badge">
 </a>
 </td>
 <td>
@@ -167,7 +170,7 @@ May 2025<br>
 <tr>
 <td>
 <a href="https://www.credly.com/badges/6bcdf871-f9b0-49dc-b254-f0447773c21d/linked_in_profile">
-<img src="assets/certifications/jamf-170.png" width="70" alt="Jamf 170 badge">
+<img src="assets/jamf170.png" width="70" alt="Jamf 170 badge">
 </a>
 </td>
 <td>
@@ -176,17 +179,36 @@ March 2024<br>
 <a href="https://www.credly.com/badges/6bcdf871-f9b0-49dc-b254-f0447773c21d/linked_in_profile">Verify certification</a>
 </td>
 </tr>
-</table>
-
-**Jamf 100: Jamf Pro Associate**  
-September 2023 · [Verify certification](https://verify.skilljar.com/c/fyxh99i89vas)
-
-**Apple Certified Associate: Mac Integration 10.12**  
+<tr>
+<td>
+<img src="assets/jamf100.png" width="70" alt="Jamf 100 badge">
+</td>
+<td>
+<strong>Jamf 100: Jamf Pro Associate</strong><br>
+September 2023<br>
+<a href="https://verify.skilljar.com/c/fyxh99i89vas">Verify certification</a>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/applelogo.png" width="70" alt="Apple logo">
+</td>
+<td>
+<strong>Apple Certified Associate: Mac Integration 10.12</strong><br>
 November 2017
-
-**Bacula Admin 1**  
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/bacula.png" width="70" alt="Bacula logo">
+</td>
+<td>
+<strong>Bacula Admin 1</strong><br>
 June 2023
+</td>
+</tr>
+</table>
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/matt-brown-2a77b3283)
