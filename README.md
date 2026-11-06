@@ -100,17 +100,16 @@ A collection of custom Salt execution modules, states and grains I've developed 
 
 I write about infrastructure, automation, macOS management and GitOps.
 
-Some of my writing includes:
-
-- **Salting the NAS** — Originally published in *2600: The Hacker Quarterly*.
-- **saltyMacs** — Managing macOS with masterless Salt and GitOps.
-- **Managing a Studio with Salt** — Configuration management across animation workstations and render infrastructure.
-- **Console User Grain** — Building a custom Salt grain for identifying the logged-in macOS user.
-- **saltyBrew** — Extending Salt with custom Workbrew modules and states.
-- **GitOps and Anton** — Applying GitOps principles to Linux storage infrastructure.
-- **Using Jamf's API with Scripts** — Working with Jamf APIs to automate administration.
-
-[Read my articles](https://mrbrown89.github.io)
+- [saltyBrew](articles/2026-06-27-saltyBrew.md) — 27 June 2026
+- [saltyMacs](articles/2026-05-28-saltyMacs.md) — 28 May 2026
+- [Console User Grain](articles/2026-05-28-console-user-grain.md) — 28 May 2026
+- [Cheffin IT](articles/2026-04-20-Cheffin-IT.md) — 20 April 2026
+- [Using Jamf’s API with Scripts](articles/2025-10-18-Using-Jamfs-API-with-Scripts.md) — 18 October 2025
+- [Salting GitOps — Managing a NAS with Salt and GitOps](articles/2025-07-08-gitops-anton.md) — 6 July 2025
+- [Put the Kettle on — Let's Have a Brew](articles/2025-06-16-Put-the-kettle-on-lets-have-a-brew.md) — 17 June 2025
+- [What Remains in the Aftermath](articles/2025-06-17-What-Remains-in-the-Aftermath.md) — 17 June 2025
+- [Managing a Studio with Salt](articles/2025-05-30-Manging-a-studio.md) — 30 May 2025
+- [A Brief Look at Apple’s Gatekeeper](articles/2024-08-27-Apple-Gatekeeper.md) — 27 August 2024
 
 ## Professional certifications
 
