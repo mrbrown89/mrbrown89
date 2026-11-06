@@ -100,7 +100,7 @@ A collection of custom Salt execution modules, states and grains I've developed 
 
 I write about infrastructure, automation, macOS management and GitOps.
 
-- [Salting the NAS](articles/Salting-the-NAS.md) — Originally published in *2600: The Hacker Quarterly*.
+- [Salting the NAS](articles/Salting-the-NAS.md) — 30 October 2026
 - [saltyBrew](articles/2026-06-27-saltyBrew.md) — 27 June 2026
 - [saltyMacs](articles/2026-05-28-saltyMacs.md) — 28 May 2026
 - [Console User Grain](articles/2026-05-28-console-user-grain.md) — 28 May 2026
@@ -112,7 +112,7 @@ I write about infrastructure, automation, macOS management and GitOps.
 - [Managing a Studio with Salt](articles/2025-05-30-Manging-a-studio.md) — 30 May 2025
 - [A Brief Look at Apple’s Gatekeeper](articles/2024-08-27-Apple-Gatekeeper.md) — 27 August 2024
 
-## Professional certifications
+## Professional Certifications
 
 <table>
 <tr>
@@ -185,20 +185,20 @@ September 2023<br>
 </tr>
 <tr>
 <td>
-<img src="assets/applelogo.jpeg" width="70" alt="Apple logo">
-</td>
-<td>
-<strong>Apple Certified Associate: Mac Integration 10.12</strong><br>
-November 2017
-</td>
-</tr>
-<tr>
-<td>
 <img src="assets/bacula.jpeg" width="70" alt="Bacula logo">
 </td>
 <td>
 <strong>Bacula Admin 1</strong><br>
 June 2023
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/applelogo.jpeg" width="70" alt="Apple logo">
+</td>
+<td>
+<strong>Apple Certified Associate: Mac Integration 10.12</strong><br>
+November 2017
 </td>
 </tr>
 </table>
