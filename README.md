@@ -14,19 +14,23 @@ I developed saltyMacs to bring Infrastructure as Code and GitOps principles to m
 
 Jamf handles deployment and management integration, while Salt provides repeatable configuration and drift correction.
 
+Alongside it is saltymacs-cli, a Go tool that combines Salt and Jamf data so I can query and act on the fleet from one place, both interactively and as JSON for other tooling.
+
+The production system and CLI are private, but I've published a separate demo of the same approach.
+
 The production implementation is private, but I've published a separate demonstration that explores the same approach.
 
 [View saltyMac on GitHub](https://github.com/mrbrown89/saltyMac)
 
 ### Studio Infrastructure Automation
 
-Salt-based automation for Windows animation workstations, render nodes and teaching machines, alongside Linux infrastructure engineering.
+Salt based automation for workstations, render nodes and teaching machines in a production animation studio.
 
-I use Salt to manage software deployment, configuration and maintenance across a production animation environment.
+A Linux Salt master, version controlled states and role specific configuration handle software deployment, configuration and maintenance. It's cut software upgrades from weeks of work to hours.
 
-The approach uses a Linux Salt master, version-controlled states and role-specific configurations. It has helped reduce software upgrade work from weeks to hours.
+On top of it sits saltystudio-cli, a Go app built on the Salt API. It lets me query managed machines, pull data from the Salt Mine and run operational tasks such as restarting or stopping VMs and containers.
 
-The production configuration is private.
+Both are private production projects.
 
 ### mac-health
 
@@ -47,20 +51,6 @@ I use Infrastructure as Code to make device-management configuration version-con
 My professional implementation is private, but I've published a separate reference repository demonstrating related Terraform techniques, including Jamf resources and macOS virtual machine workflows.
 
 [View terraforming-jamf on GitHub](https://github.com/mrbrown89/terraforming-jamf)
-
-### saltyStudio CLI
-
-This is a cli app written in go that interacts with salt's API. The app allows users to interact with devies managed by salt, pull data from the salt mine and to perform tasks e.g. restarting and stopping VMs and containers. 
-
-This is a private professional project.
-
-### saltymacs-cli
-
-A Go command line application for interacting with Jamf APIs.
-
-The application supports my work in Apple platform administration and is part of my wider interest in building tools that simplify systems management.
-
-The existing implementation is private, with a move towards Swift planned.
 
 ### son-of-anton
 
