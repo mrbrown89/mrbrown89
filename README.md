@@ -50,17 +50,13 @@ My professional implementation is private, but I've published a separate referen
 
 ### saltyStudio CLI
 
-A command-line administration application built around Salt.
-
-Originally developed in Go, I'm working on a Swift replacement with a shared foundation for command-line and future graphical interfaces.
-
-The application is designed around managing infrastructure and interacting with Salt without having to work directly with individual API requests.
+This is a cli app written in go that interacts with salt's API. The app allows users to interact with devies managed by salt, pull data from the salt mine and to perform tasks e.g. restarting and stopping VMs and containers. 
 
 This is a private professional project.
 
 ### saltymacs-cli
 
-A Go command-line application for interacting with Jamf APIs.
+A Go command line application for interacting with Jamf APIs.
 
 The application supports my work in Apple platform administration and is part of my wider interest in building tools that simplify systems management.
 
